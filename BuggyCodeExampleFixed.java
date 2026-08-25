@@ -32,4 +32,4 @@ public class BuggyCodeExampleFixed {
         double average = calculateAverage(numbers);
         System.out.println("Average: " + average);   // 0.2
     }
-} 
+}  
